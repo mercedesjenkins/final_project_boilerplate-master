@@ -238,16 +238,21 @@ header nav strong {
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #222;
-  border-radius: 5px;
-  background: #deece6;
-  box-shadow: inset 0 -3px 0 rgba(0,0,0,.2);
+  background: #FF4217;
+  border-radius: 22px;
+}
+
+.button:hover {
+color: white;
+background: #C40FE8;
 }
 
 /* Super info button in blurb */
 .blurb1 .button {
   transition: all .2s ease;
   color: white;
-  background: #fa4542;
+  background: #C20AC2;
+  border-radius: 44px;
 }
 
 .blurb1 .button:hover {
@@ -257,7 +262,8 @@ header nav strong {
 .blurb2 .button {
   transition: all .2s ease;
   color: white;
-  background: #fa4542;
+  background: #074787;
+  border-radius: 44px;
 }
 
 .blurb2 .button:hover {
