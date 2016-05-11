@@ -192,11 +192,13 @@ header {
 footer {
   clear: both;
   padding: 25px 38px;
+ 
 }
 
 footer p {
   margin: 0;
   height: 500px;
+  font-family: 'Bangers', cursive;
 }
 
 
