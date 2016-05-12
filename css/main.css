@@ -154,7 +154,7 @@ h2 {
 
 h3 {
 font-family: 'Bangers', cursive;
-  font-size: 25px;
+  font-size: 34px;
   margin: 0;
   letter-spacing: 2px;
 }
@@ -336,7 +336,7 @@ background: #C40FE8;
 .banner1 {
   overflow: hidden;
   padding: 3%;
-  background-image: url(http://cde.2.trome.pe/ima/0/1/0/9/0/1090051.jpg);
+  background-image: url(https://b6c18f286245704fe3e9-05e2055f4cd9122af02914269431c9f6.ssl.cf1.rackcdn.com/6401820_everyone-wants-drakes-jacket-from-the-hotline_4e763433_m.jpg?bg=A53A7A);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -357,6 +357,7 @@ background: #C40FE8;
    ================================================================ */
 .info {
   float: left;
+  text-align: center;
   width: 33.333333334%;
   margin: 25px 0;
   padding: 24px 38px;
