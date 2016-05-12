@@ -60,6 +60,8 @@ img,
 svg,
 video {
     vertical-align: middle;
+    margin-top: 16px;
+    margin-left: 16px;
 }
 
 /*
